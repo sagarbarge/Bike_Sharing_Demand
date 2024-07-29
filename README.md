@@ -1,4 +1,4 @@
-# Bike_Sharing_Demand 🚲🚀
+# Bike_Sharing_Demand 🚲
 Bike sharing demand prediction using Multiple Linear Regression
 
 # Problem Statement🔍:
